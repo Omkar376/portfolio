@@ -133,8 +133,8 @@ h6 {
 
 .container,
 .container-fluid {
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 @media (max-width: 1199px) {
@@ -158,7 +158,7 @@ h6 {
 --------------------------------------------------------------*/
 /* Desktop Navigation */
 .nav-menu {
-  padding: 30px 0 0 0;
+  padding: 20px 0 0 0;
 }
 
 .nav-menu * {
@@ -299,7 +299,7 @@ h6 {
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 }
 
@@ -307,7 +307,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 
@@ -316,7 +316,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .section-title h2 {
@@ -382,7 +382,7 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts {
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .facts .count-box {
@@ -404,12 +404,12 @@ section {
   display: block;
   font-weight: 700;
   color: #050d18;
-  margin-left: 60px;
+  margin-left: 30px;
 }
 
 .facts .count-box p {
   padding: 15px 0 0 0;
-  margin: 0 0 0 60px;
+  margin: 0 0 0 30px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
   color: #122f57;
@@ -433,7 +433,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 30px;
   display: block;
   background: none;
   border-radius: 0;
@@ -531,7 +531,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .portfolio #portfolio-flters {
@@ -590,7 +590,7 @@ section {
   opacity: 1;
   left: 0;
   right: 0;
-  bottom: -60px;
+  bottom: -20px;
   z-index: 3;
   position: absolute;
   transition: all ease-in-out 0.3s;
@@ -869,7 +869,7 @@ section {
 }
 
 .contact .info h4 {
-  padding: 0 0 0 60px;
+  padding: 0 0 0 30px;
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
@@ -877,7 +877,7 @@ section {
 }
 
 .contact .info p {
-  padding: 0 0 10px 60px;
+  padding: 0 0 10px 30px;
   margin-bottom: 20px;
   font-size: 14px;
   color: #173b6c;
@@ -888,7 +888,7 @@ section {
 }
 
 .contact .info .social-links {
-  padding-left: 60px;
+  padding-left: 30px;
 }
 
 .contact .info .social-links a {
